@@ -8,8 +8,8 @@ Data Analytics Using Java
 2. Maven (version > 3.0.5)<br>
 
 
-# Adding dependencies
-<p>twitter-grapher have some dependencies, so before building the application you've to add them first.</p>
+# Downloading Project
+<p>Understand Apache Maven before cloning this code.</p>
 #### Note:
 <p>Clone the Project to directory whose path doesn't contain blank spaces.</p>
 1. clone the twitter-grapher repository on your machine.<br/>
