@@ -33,5 +33,25 @@
 			<artifactId>opennlp-uima</artifactId>
 			<version>1.9.2</version>
 		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/net.sourceforge/javaml -->
+		<dependency>
+			<groupId>javaml-toolkit</groupId>
+			<artifactId>javaml</artifactId>
+			<version>0.1.7</version>
+		</dependency>
+		<dependency>
+			<groupId>ajt-toolkit</groupId>
+			<artifactId>ajt</artifactId>
+			<version>2.11</version>
+		</dependency>
+
+		<dependency>
+			<groupId>weka-toolkit</groupId>
+			<artifactId>weka</artifactId>
+			<version>4.0</version>
+		</dependency>
+
+
 	</dependencies>
 </project>
