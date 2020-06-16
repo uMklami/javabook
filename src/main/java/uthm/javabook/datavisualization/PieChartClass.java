@@ -1,17 +1,11 @@
 package uthm.javabook.datavisualization;
 
-/*
- * Author : Aamir Khan
- * Faculty of Computer Science and Information Technology
- * University Tun Hussein Onn Malaysia
- */
+
 
 import java.text.DecimalFormat;
-
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 import javax.swing.WindowConstants;
-
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;
 import org.jfree.chart.JFreeChart;
@@ -21,6 +15,11 @@ import org.jfree.chart.plot.PiePlot;
 import org.jfree.data.general.DefaultPieDataset;
 import org.jfree.data.general.PieDataset;
 
+/*
+ * Author : Aamir Khan
+ * Faculty of Computer Science and Information Technology
+ * University Tun Hussein Onn Malaysia
+ */
 
 public class PieChartClass extends JFrame {  
 	  private static final long serialVersionUID = 6294689542092367723L;  
