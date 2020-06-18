@@ -35,7 +35,7 @@
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/net.sourceforge/javaml -->
-<!--
+
 		<dependency>
 			<groupId>javaml-toolkit</groupId>
 			<artifactId>javaml</artifactId>
@@ -52,7 +52,7 @@
 			<artifactId>weka</artifactId>
 			<version>4.0</version>
 		</dependency>
- -->  
+ 
 		<!-- https://mvnrepository.com/artifact/org.jfree/jfreechart -->
 		<dependency>
 		    <groupId>org.jfree</groupId>
